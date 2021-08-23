@@ -17,10 +17,10 @@
 </p>
 <hr> 
 
-- 🔭 I’m currently  A 3rd year CSE B.Tech student at IIITV
+- 🔭 I’m currently  A 4th year CSE B.Tech student at IIITV
 - 🌱 I do Fullstack Development but currently explore More fields of Computer Science
 - 👯 I’m looking to collaborate on  python & Javascript Projects 
-- 💬 Ask me about Python,JavaScript,C,DSA and core Computer Science
+- 💬 Ask me about Python, JavaScript, C/C++, DSA, core Computer Science and LLD
 
 
 
